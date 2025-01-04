@@ -5,7 +5,7 @@
 		meta: [
 		{ 
 			name: 'description', 
-			content: 'Sign In Nuxt 3, IT Genius Engineering' 
+			content: 'Sign In Nuxt 3, IT Fluke' 
 		},
 		{
 			name: 'keywords',
@@ -122,7 +122,7 @@
 		<VRow no-gutters align="center" justify="center" class="fill-height">
             <VCol class="hidden-sm-and-down fill-height" md="6" lg="6">
 				<VImg
-					src="https://scontent.fbkk12-3.fna.fbcdn.net/v/t39.30808-1/405518688_2009934092719573_7441190359895067418_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeFBRUTbzkP0EcSRHhPnVE9LhJJ8TRGFy4SEknxNEYXLhKIYnbpcNlTMgQFFBKthFkQzDBjYFJlWz0cRUyeV0_Z2&_nc_ohc=56M9Od4Y81QQ7kNvgFTrkgG&_nc_oc=Adh7zwnoYa4nVoOh5DkVjwyj-Y-qSD85OI3memadgEN2OPCrIIjWzTRBWfcCd1QEOJ8Lh1MRj96uJNeobybcl9LB&_nc_zt=24&_nc_ht=scontent.fbkk12-3.fna&_nc_gid=AQ-jDLsMCw72FIKm5AdbDnp&oh=00_AYD5jaRnFHL0D6dMveMwf8ARt9a8CYe2PehLMb1Epadirw&oe=676C45C5"
+					src="https://scontent.fbkk12-3.fna.fbcdn.net/v/t39.30808-6/405518688_2009934092719573_7441190359895067418_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=vQDcfs2u6vUQ7kNvgGzNz9D&_nc_oc=AdhrldvaTafC8opja1TELMpT3n8XFQHq9ofQ-_NogJH3CPy03lcRZRJDCw_rYkKFQc41jH4oE6vwcVm_txV2EFpk&_nc_zt=23&_nc_ht=scontent.fbkk12-3.fna&_nc_gid=AFHOeEIEWdbFlI5NDySdvt3&oh=00_AYApSnhe_341Q1-0qhX_Vs6lDv-XLEgYB3VnaOTCVkjpPQ&oe=677E4B47"
 					cover
 					class="h-100 rounded-xl rounded-ts-0 rounded-bs-0 d-flex align-center justify-center"
 				>
